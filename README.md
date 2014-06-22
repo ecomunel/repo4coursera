@@ -23,3 +23,5 @@ More details are described along the code using comments.
 *You can download the code of script and test in your system!*
 
 Look for **'run_analysis.R'** and **'BookCode.md'** files available in this repo.
+https://github.com/ecomunel/repo4coursera/blob/master/run_analysis.R
+https://github.com/ecomunel/repo4coursera/blob/master/CodeBook.md
