@@ -21,3 +21,5 @@ The procedure involves the following steps:
 More details are described along the code using comments.
 
 *You can download the code of script and test in your system!*
+
+Look for **'run_analysis.R'** and **'BookCode.md'** files available in this repo.
